@@ -1,1 +1,2 @@
 # RepositorioDual
+Repositorio de ejemplo
